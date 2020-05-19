@@ -1,0 +1,3 @@
+- https://css-tricks.com/almanac/selectors/a/attribute
+- https://css-tricks.com/multiple-attribute-values
+- https://www.w3schools.com/cssref/css_colors.asp
