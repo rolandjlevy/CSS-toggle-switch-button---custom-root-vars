@@ -1,9 +1,9 @@
 # CSS toggle switch buttons
 
 ### Description
-- toggle switch buttons of various sizes, shapes and colours defined in style attribute of selector
+- toggle switch buttons of various sizes, shapes and colours defined with custom vars
 
 ### Links
-- [Live demo](https://js-clock--rjlevy.repl.co/)
-- [Source code](https://repl.it/@rjlevy/JS-clock)
-- [Github](https://github.com/rolandjlevy/JS-clock)
+- [Live demo](https://css-toggle-switch-button-custom-vars.rjlevy.repl.co/)
+- [Source code](https://repl.it/@rjlevy/CSS-toggle-switch-button-custom-vars)
+- [Github](https://github.com/rolandjlevy/CSS-toggle-switch-button-custom-vars)

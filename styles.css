@@ -8,10 +8,7 @@ body {
   box-shadow: border-box;
   background: #eee;
   font-family: 'Raleway', sans-serif;
-}
-
-h2, h3 {
-  margin-top: 0;
+  margin: 20px;
 }
 
 .wrapper {
@@ -23,12 +20,17 @@ h2, h3 {
   box-shadow: 0 15px 15px -15px #00000033;
 }
 
+h2, h3 {
+  margin-top: 0;
+}
+
 /* Customise height */
 .btn-toggler {
   position: relative;
   display: inline-block;
   width: var(--height);
   height: calc(var(--height)/2 + var(--border));
+  margin: 5px;
 }
 
 /* Hide native checkbox */
